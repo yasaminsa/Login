@@ -1,6 +1,9 @@
-body {
-    background-size: cover;
-    font-family: Arial, sans-serif;
+.big-image {
+    background: url(../pic/dc5c767e562f584b2fe93a0d30b294d9\ 1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    padding: 150PX 190px;
 }
 .container {
     width: 80%;
